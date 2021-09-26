@@ -1,7 +1,7 @@
 # Basic-Conversions-APP-2
 
 
-This is the first Full APP created by me Using Android Studio. The Language used is Java. <br> In this APP the major components are using buttons, how to diaplay the toast messages and how to change the textview during the Runtime.
+This is the Second Full APP created by me Using Android Studio and Second APP of 100 APPs Challeenge. The Language used is Java. <br> In this APP the major components are using buttons, how to diaplay the toast messages and how to change the textview during the Runtime.
 
 <br>
 APP APK Link : <a href="https://drive.google.com/file/d/1VmX4K2VfuhCv6UsM51Qsr7J_npkqiUbh/view?usp=sharing" download="FILENAME">Conversion APP-1</a>
